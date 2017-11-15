@@ -1,0 +1,17 @@
+{
+    "name": "PID",
+    "version": "1.0.0",
+    "keywords": "PID",
+    "description": "PID库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/PID.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
